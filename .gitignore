@@ -1,0 +1,5 @@
+configs/.env
+*.db
+*-firebase-adminsdk-*.json
+serviceAccount*.json
+configs/*.json
